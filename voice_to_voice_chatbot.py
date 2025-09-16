@@ -11,7 +11,7 @@ from groq import Groq
 # Groq Client (kept as-is)
 # ----------------------------
 client = Groq(
-    api_key="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"  # keep your key here if you prefer
+    api_key=""  # keep your key here if you prefer
 )
 
 # Load Whisper once
