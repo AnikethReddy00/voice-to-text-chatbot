@@ -76,6 +76,8 @@ Uploading Audio: Upload a pre-recorded audio file. The chatbot will transcribe t
     ├── README.md              # Project documentation
     └── .gitignore             # Git ignore file
 
+**Demo**
+
 **Troubleshooting**
 
 Common Issues
