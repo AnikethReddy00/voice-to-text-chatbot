@@ -8,6 +8,9 @@ This project is a real-time voice-to-voice chatbot that leverages OpenAI's Whisp
 - **AI-Generated Responses**: Use LLaMA 8B via the Groq API to generate intelligent responses based on the transcribed text.
 - **Text-to-Speech**: Convert the generated text responses back into speech using Google Text-to-Speech (gTTS).
 - **Real-Time Interaction**: The chatbot works in real-time, allowing users to interact through a microphone or by uploading audio files via a web interface.
+<img width="1586" height="934" alt="image" src="https://github.com/user-attachments/assets/82aee38f-daae-4c09-a039-16539bfbb2d5" />
+
+
   
 ## Prerequisites
 
