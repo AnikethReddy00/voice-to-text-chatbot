@@ -6,7 +6,7 @@ This project is a real-time voice-to-voice chatbot that leverages OpenAI's Whisp
 
 
 
-<img width="1586" height="934" alt="image" src="https://github.com/user-attachments/assets/b361e2c5-858f-49e5-9839-43829ceadddc" />
+https://github.com/user-attachments/assets/b361e2c5-858f-49e5-9839-43829ceadddc
 
 ---
 ## Features
