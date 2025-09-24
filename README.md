@@ -1,7 +1,14 @@
 # Voice-to-Voice Chatbot using Whisper, LLaMA, and Groq API
 
 This project is a real-time voice-to-voice chatbot that leverages OpenAI's Whisper for speech-to-text transcription, LLaMA 8B via the Groq API for generating responses, and Google Text-to-Speech (gTTS) for converting text back into speech. The chatbot interface is built using Gradio, allowing users to interact with the bot by speaking or uploading audio files.
+---
+## Live Demo
 
+
+https://github.com/user-attachments/assets/b361e2c5-858f-49e5-9839-43829ceadddc
+
+
+---
 ## Features
 
 - **Speech-to-Text**: Convert spoken language into text using OpenAI's Whisper model.
@@ -9,7 +16,6 @@ This project is a real-time voice-to-voice chatbot that leverages OpenAI's Whisp
 - **Text-to-Speech**: Convert the generated text responses back into speech using Google Text-to-Speech (gTTS).
 - **Real-Time Interaction**: The chatbot works in real-time, allowing users to interact through a microphone or by uploading audio files via a web interface.
 <img width="1586" height="934" alt="image" src="https://github.com/user-attachments/assets/82aee38f-daae-4c09-a039-16539bfbb2d5" />
-
 
   
 ## Prerequisites
